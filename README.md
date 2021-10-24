@@ -29,5 +29,3 @@
     />
   </a>
 </p>
-
-![Snake animation](https://github.com/Vinicius-CSantos/Vinicius-Csantos/blob/output/github-contribution-grid-snake.svg)
